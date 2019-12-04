@@ -1,0 +1,128 @@
+"States","n","%","CI"\
+"Alabama",254,92.0,"(\'b14.5)"\
+"Alaska",222,80.5,"(\'b16)"\
+"Arizona",275,86.0,"(\'b15.4)"\
+"Arkansas",347,89.2,"(\'b14.2)"\
+"California",000,93.2,"(\'b12.6)"\
+"Colorado",212,88.9,"(\'b15.9)"\
+"Connecticut",252,94.2,"(\'b13.3)"\
+"Delaware",284,92.1,"(\'b13.8)"\
+"District of Columbia",301,94.0,"(\'b13.5)"\
+"Florida",521,90.2,"(\'b14.4)"\
+"Georgia",313,91.6,"(\'b14.1)"\
+"Hawaii",214,95.5,"(\'b12.6)"\
+"Idaho",183,75.5,"(\'b16.4)"\
+"Illinois",598,88.7,"(\'b13.4)"\
+"Indiana",698,88.3,"(\'b13.5)"\
+"Iowa",266,88.2,"(\'b14.6)"\
+"Kansas",242,88.7,"(\'b14.1)"\
+"Kentucky",318,87.9,"(\'b15.1)"\
+"Louisiana",281,91.5,"(\'b13.7)"\
+"Maine",219,85.5,"(\'b15.3)"\
+"Maryland",313,96.8,"(\'b11.9)"\
+"Massachusetts",199,87.4,"(\'b15.6)"\
+"Michigan",270,89.5,"(\'b15.3)"\
+"Minnesota",265,89.1,"(\'b14.7)"\
+"Mississippi",245,88.4,"(\'b15.6)"\
+"Missouri",258,89.4,"(\'b15)"\
+"Montana",269,78.5,"(\'b15.8)"\
+"Nebraska",214,93.8,"(\'b13.8)"\
+"Nevada",232,83.3,"(\'b15.5)"\
+"New Hampshire",199,95.2,"(\'b13.1)"\
+"New Jersey",260,92.5,"(\'b14.8)"\
+"New Mexico",268,88.8,"(\'b13.9)"\
+"New York",542,88.4,"(\'b13.2)"\
+"North Carolina",263,93.3,"(\'b14.1)"\
+"North Dakota",249,91.5,"(\'b13.8)"\
+"Ohio",290,89.1,"(\'b14.1)"\
+"Oklahoma",270,89.7,"(\'b15)"\
+"Oregon",214,84.2,"(\'b16.3)"\
+"Pennsylvania",552,91.9,"(\'b12.8)"\
+"Rhode Island",238,92.1,"(\'b14.1)"\
+"South Carolina",364,91.5,"(\'b13.3)"\
+"South Dakota",247,85.3,"(\'b15.2)"\
+"Tennessee",271,92.3,"(\'b14.7)"\
+"Texas",432,90.0,"(\'b12.6)"\
+"Utah",309,86.6,"(\'b14.8)"\
+"Vermont",210,77.6,"(\'b17.8)"\
+"Virginia",342,87.8,"(\'b14.5)"\
+"Washington",447,84.0,"(\'b14.9)"\
+"West Virginia",282,89.2,"(\'b13.8)"\
+"Wisconsin",253,86.7,"(\'b15.4)"\
+"Wyoming",250,78.5,"(\'b16.3)"\
+"Guam","NA","NA","NA"\
+"Puerto Rico","NA","NA","NA"\
+"U.S. Virgin Islands","NA","NA","NA"\
+"CO-Denver","NA","NA","NA"\
+"CO-Rest of State",212,88.9,"(\'b15.9)"\
+"AL-Jefferson County","NA","NA","NA"\
+"AL-Rest of State",254,92.0,"(\'b14.5)"\
+"FL-Duval County","NA","NA","NA"\
+"FL-Miami-Dade County",268,90.8,"(\'b14.5)"\
+"FL-Orange County","NA","NA","NA"\
+"FL-Rest of State",253,90.1,"(\'b15.1)"\
+"NY-City of New York",311,89.0,"(\'b13.9)"\
+"NY-Rest of State",231,87.8,"(\'b15.1)"\
+"PA-Allegheny County","NA","NA","NA"\
+"PA-Philadelphia",209,91.8,"(\'b14.4)"\
+"PA-Rest of State",343,92.0,"(\'b13.2)"\
+"TX-Bexar County",313,88.8,"(\'b14.3)"\
+"TX-City of Houston",320,89.6,"(\'b13.8)"\
+"TX-El Paso County",225,91.1,"(\'b14.7)"\
+"TX-Rest of State",298,90.2,"(\'b13.8)"\
+"TX-Dallas County",276,90.0,"(\'b14.1)"\
+"TX-Hidalgo County","NA","NA","NA"\
+"TX-Travis County","NA","NA","NA"\
+"TX-Tarrant County","NA","NA","NA"\
+"CA-Alameda County",298,89.6,"(\'b14.5)"\
+"CA-Fresno County","NA","NA","NA"\
+"CA-Los Angeles County",236,93.9,"(\'b13.3)"\
+"CA-Northern CA Counties","NA","NA","NA"\
+"CA-San Bernardino County",271,89.8,"(\'b14.4)"\
+"CA-San Diego County","NA","NA","NA"\
+"CA-Santa Clara County","NA","NA","NA"\
+"CA-Rest of State",195,93.5,"(\'b13.8)"\
+"IL-City of Chicago",295,88.8,"(\'b14.2)"\
+"IL-Rest of State",303,88.7,"(\'b14.4)"\
+"IL-Madison/St. Clair Counties","NA","NA","NA"\
+"IN-Lake County","NA","NA","NA"\
+"IN-Marion County",349,86.0,"(\'b14.6)"\
+"IN-Rest of State",349,88.8,"(\'b14.2)"\
+"KS-Eastern KS Counties","NA","NA","NA"\
+"KS-Rest of State",242,88.7,"(\'b14.1)"\
+"LA-Orleans Parish","NA","NA","NA"\
+"LA-Rest of State","NA","NA","NA"\
+"MD-City of Baltimore","NA","NA","NA"\
+"MD-Prince George's County","NA","NA","NA"\
+"MD-Rest of State",313,96.8,"(\'b11.9)"\
+"MA-City of Boston","NA","NA","NA"\
+"MA-Rest of State",199,87.4,"(\'b15.6)"\
+"MI-City of Detroit","NA","NA","NA"\
+"MI-Rest of State",270,89.5,"(\'b15.3)"\
+"MN-Twin Cities","NA","NA","NA"\
+"MN-Rest of State",265,89.1,"(\'b14.7)"\
+"MO-St. Louis County/City","NA","NA","NA"\
+"MO-Rest of State",258,89.4,"(\'b15)"\
+"GA-Fulton/DeKalb Counties","NA","NA","NA"\
+"GA-Rest of State",313,91.6,"(\'b14.1)"\
+"NV-Clark County","NA","NA","NA"\
+"NV-Rest of State",232,83.3,"(\'b15.5)"\
+"NJ-City of Newark","NA","NA","NA"\
+"NJ-Rest of State",260,92.5,"(\'b14.8)"\
+"NM-Southern NM Counties","NA","NA","NA"\
+"NM-Rest of State",268,88.8,"(\'b13.9)"\
+"OH-Cuyahoga County","NA","NA","NA"\
+"OH-Franklin County","NA","NA","NA"\
+"OH-Rest of State",290,89.1,"(\'b14.1)"\
+"AZ-Maricopa County","NA","NA","NA"\
+"AZ-Rest of State",275,86.0,"(\'b15.4)"\
+"TN-Davidson County","NA","NA","NA"\
+"TN-Shelby County","NA","NA","NA"\
+"TN-Rest of State",271,92.3,"(\'b14.7)"\
+"WA-Eastern WA Counties","NA","NA","NA"\
+"WA-King County","NA","NA","NA"\
+"WA-Western Counties",233,80.8,"(\'b15.9)"\
+"WA-Eastern/Western WA Counties","NA","NA","NA"\
+"WA-Rest of State",214,84.8,"(\'b15.8)"\
+"WI-Milwaukee County","NA","NA","NA"\
+"WI-Rest of State",253,86.7,"(\'b15.4)"
